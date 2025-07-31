@@ -1,4 +1,4 @@
-# Heran-a-de-Pre-os-em-Java
+# Heranca dos precos em Java
 Exemplo de Herança de Preços em Java realizados na faculdade de ADS Senac
 
 
